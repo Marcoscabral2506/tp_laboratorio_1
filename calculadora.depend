@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1523572362 source:c:\users\marcos\desktop\tpcode\calculadora\funcionescalculadora.c
+	"funcionescalculadora.h"
+
+1523572063 c:\users\marcos\desktop\tpcode\calculadora\funcionescalculadora.h
+	<stdio.h>
+	<stdlib.h>
+
+1523572252 source:c:\users\marcos\desktop\tpcode\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funcionescalculadora.h"
+
